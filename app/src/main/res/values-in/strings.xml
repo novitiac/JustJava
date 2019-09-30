@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">cokelat</string>
+    <string name="name">Nama</string>
+    <string name="order">Pesan</string>
+    <string name="quantity">Jumlah</string>
+    <string name="thank_you">Terima Kasih</string>
+    <string name="toppings">Taburan</string>
+    <string name="whipped_cream">Krim Kocok</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="order_summary_chocolate">"Tambahkan cokelat? "</string>
+    <string name="order_summary_email_subject">Pesan Just Java untuk</string>
+    <string name="order_summary_name">Nama:</string>
+    <string name="order_summary_price">Total:</string>
+    <string name="order_summary_quantity">Jumlah:</string>
+    <string name="order_summary_whipped_cream">Tambahkan krim kocok?</string>
+    <string name="toast_decrement">Kamu tidak bisa memesan kurang dari 1 kopi</string>
+    <string name="toast_increment">Kamu tidak bisa memesan lebih dari 100 kopi</string>
+</resources>
